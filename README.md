@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bjornmelin-unified-knowledge-system-badge.png)](https://mseep.ai/app/bjornmelin-unified-knowledge-system)
+
 # 🧠 Unified Knowledge Management System
 
 A comprehensive system for integrating multiple knowledge sources into a unified, searchable knowledge base with advanced retrieval capabilities.
